@@ -1,0 +1,133 @@
+{
+  "comics": [
+    {
+      "id": 1,
+      "cover": "assets/images/Cover/onepunch.jpg",
+      "name": "One Punch Man",
+      "episode": 1,
+      "studioId": 1,
+      "status": "Ongoing",
+      "type": "Manga",
+      "description": "Delicious Lava Ramene with Spicy taste"
+    },
+    {
+      "cover": "assets/images/Cover/xiandi.jpg",
+      "name": "Return of Xiandi",
+      "episode": 1,
+      "studioId": 2,
+      "status": "Ongoing",
+      "type": "Manhua",
+      "description": "Delicious Lava Ramene with Spicy taste",
+      "id": 2
+    },
+    {
+      "cover": "assets/images/Cover/solo.jpg",
+      "name": "Solo Leveling",
+      "episode": 1,
+      "studioId": 3,
+      "status": "Ongoing",
+      "type": "Manhwa",
+      "description": "Delicious Lava Ramene with Spicy taste",
+      "id": 3
+    },
+    {
+      "cover": "assets/images/Cover/scion.jpg",
+      "name": "Youngest Scion",
+      "episode": 1,
+      "studioId": 3,
+      "status": "Ongoing",
+      "type": "Manhwa",
+      "description": "Delicious Lava Ramene with Spicy taste",
+      "id": 4
+    },
+    {
+      "cover": "assets/images/Cover/dimon.jpg",
+      "name": "Heavenly Demon",
+      "episode": 1,
+      "studioId": 3,
+      "status": "Ongoing",
+      "type": "Manhwa",
+      "description": "Delicious Lava Ramene with Spicy taste",
+      "id": 5
+    },
+    {
+      "cover": "assets/images/Cover/dimon.jpg",
+      "name": "Heavenly Demonzz",
+      "episode": 1,
+      "studioId": 2,
+      "status": "Ongoing",
+      "type": "Manhwa",
+      "description": "Delicious Lava Ramene with Spicy taste",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "username": "daam",
+      "password": "daa11",
+      "email": "da@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "adam",
+      "password": "adam11",
+      "email": "adam11@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "Dami",
+      "password": "Dami11",
+      "email": "Dami12@gmail.com",
+      "id": 3
+    }
+  ],
+  "studios": [
+    {
+      "name": "Dream Factory Studio",
+      "tahunBerdiri": 2019,
+      "id": 1
+    },
+    {
+      "name": "Luck Factory Studio",
+      "tahunBerdiri": 2002,
+      "id": 2
+    },
+    {
+      "name": "Nightmare Factory Studio",
+      "tahunBerdiri": 2001,
+      "id": 3
+    }
+  ],
+  "favorites": [
+    {
+      "comicId": 1,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "comicId": 2,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "comicId": 4,
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "comicId": 5,
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "comicId": 6,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "comicId": 6,
+      "userId": 2,
+      "id": 6
+    }
+  ]
+}
